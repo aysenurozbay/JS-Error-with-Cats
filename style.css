@@ -1,0 +1,32 @@
+*{
+    
+    align-items: center;
+    position: relative;
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.header{
+    margin-top: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.giris{
+    
+    width: 500px;
+    height: 50px;
+    border-color: black;
+    font-size: 30px;
+    color: white;
+    border-radius: 9999em;
+    padding: 3px;
+    margin-top: 2px;
+    margin: 20px;
+    background: linear-gradient(21deg, #10abff, #1beabd);
+    outline: 0;
+    
+
+}
+
